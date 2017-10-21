@@ -8,7 +8,7 @@ This project was done as part of Udacity's Machine Learning Engineer Nanodegree.
 
 # Data dependencies:
 
-census.csv
+## census.csv
 
 The modified census dataset consists of 45,222 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. You may find this paper [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), with the original dataset hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
@@ -34,6 +34,6 @@ The modified census dataset consists of 45,222 data points, with each datapoint 
 
 Python 2.7 version was used to run the Notebook.
 
-visuals.py
+## visuals.py
 
 This is a Python module that was made available by Udacity. It provides visualizations of the most important features of the problem.
